@@ -51,7 +51,7 @@ bus=[
 
 
 %-------------------load change bias-----------------
-% for testing single
+% for testing single - bias values same for both P (bus(x,6)) and Q (bus(x,7))
 % bias = 19.5;
 
 % bus(4,6) = bus(4,6) + bias; % 18.7
