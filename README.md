@@ -1,4 +1,4 @@
 # Stackelberg-Game-Power-models
-MATLAB files for "Stackelberg Security Investment Game for Networked Control Systems with Model Uncertainty".
-The Supplemental document contains details of the New England system along with the generation of the uncertain models varying the loads and generators. It also contains analysis of the diversity of the models in the model set M.  
-The mat files for the case study performed on the IEEE 68-bus system in the paper are also included in the branch.
+MATLAB data files for "A Robust Stackelberg Investment Game for Cyber-Security of Networked Control Systems".
+This repository contains data files of 20 randonmly geenrated uncertain models for the IEEE 39-bus system and 20 for the IEEE 68-bus system.
+These data files are used in the performance analysis of the proposed Stackelberg Investment game on time-varying model uncertainty of electric power systems.
